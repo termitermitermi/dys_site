@@ -1,8 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: corp_med_corrupt.png
 category: Announcements
-title: New Website
+title: Please Hold
 description: |
 ---
-  We've recently updated our website, hopefully shit is more straight forward from here on out, shout outs to wordpress and a host of other tiny plugins for being as amazing as ever... 
+  Please hold, current stream signal quality is being refined, if your data stream continues to have issues
+  
+  Note: This is not an error on the providers end, as such extended error support is not available
+  Note: Please contact your local Datatrust representative for guidance

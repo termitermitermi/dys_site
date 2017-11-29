@@ -1,8 +1,8 @@
 ---
 layout: default
 img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+category: Announcements
+title: New Website
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  We've recently updated our website, hopefully shit is more straight forward from here on out, shout outs to wordpress and a host of other tiny plugins for being as amazing as ever... 

@@ -5,7 +5,8 @@ category: Announcements
 title: Please Hold
 description: |
 ---
-  Please hold, current stream signal quality is being refined, if your data stream continues to have issues
+  Please hold, current stream signal quality is being refined.
   
-  Note: This is not an error on the providers end, as such extended error support is not available
-  Note: Please contact your local Datatrust representative for guidance
+  Note: This is not an error on the providers end, as such extended error support is not available.
+ 
+ Note: If your data stream continues to require refinement please contact your local Datatrust representative for guidance.
